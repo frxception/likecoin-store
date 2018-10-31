@@ -48,7 +48,7 @@
     "@ledgerhq/web3-subprovider": "^4.11.0",
     "@likecoin/abi-decoder": "^2.0.0",
     "@likecoin/ethereum-blockies": "^0.1.2",
-    "@likecoin/likecoin-email-templates": "^1.0.2",
+    "@likecoin/likecoin-email-templates": "^1.0.6",
     "@likecoin/vue-image-lightbox": "^5.5.4",
     "@nuxtjs/google-tag-manager": "^2.0.0",
     "@nuxtjs/sentry": "^1.0.3",
